@@ -1,95 +1,157 @@
-# Hey, I'm Ashik Shaji 👋
+<div align="center">
 
-### Full-Stack Developer • Microservices • Mobile • AI-Assisted Engineering
+# 👋 Hey, I'm **Ashik Shaji**
 
-I build practical software across **Node.js, Vue, PostgreSQL, Flutter, and cloud infrastructure** — with a focus on clean architecture, scalable APIs, and shipping real products.
+### Full-Stack Developer • System Builder • AI-Assisted Engineer
 
-I enjoy understanding how things work under the hood while using AI to move faster from idea → implementation → production.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=706AFF&center=true&vCenter=true&width=700&lines=Building+scalable+microservices+%F0%9F%9A%80;Crafting+Vue+%26+Flutter+experiences+%F0%9F%8E%A8;Working+with+PostgreSQL%2C+AWS+%26+Docker+%E2%98%81%EF%B8%8F;Learning+systems+by+building+them+%F0%9F%A7%A0" alt="Typing SVG" />
 
----
+<br/>
 
-## 🚀 What I Build
+[![GitHub](https://img.shields.io/badge/GitHub-lonelycoder2004-181717?style=for-the-badge&logo=github)](https://github.com/lonelycoder2004)
+[![Profile Views](https://komarev.com/ghpvc/?username=lonelycoder2004&style=for-the-badge&color=706AFF)](https://github.com/lonelycoder2004)
 
-- 🧩 **Node.js microservices** with REST APIs, authentication, RBAC and service-to-service communication
-- 🎨 **Vue 3 applications** with Vite, Tailwind CSS and reusable component architecture
-- 🗄️ **PostgreSQL + Sequelize** data models, migrations and relational systems
-- 📱 **Flutter applications** for Android & iOS
-- ☁️ **AWS / S3** integrations and signed-URL based file workflows
-- 🐇 **RabbitMQ, WebSockets & notifications** for event-driven and real-time systems
-- 🐳 **Dockerized development environments** and backend infrastructure
-- 🤖 **AI-assisted development** to accelerate engineering without giving up understanding
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ What I'm About
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+> **Build it. Understand it. Improve it. Ship it.**
+
+I build production-oriented software across **backend, frontend, mobile and cloud**.
+I use AI to accelerate development, while keeping the goal simple: **understand the system, not just generate the code.**
+
+<div align="center">
+
+| 🧩 Backend | 🎨 Frontend | 📱 Mobile | ☁️ Cloud |
+|:---:|:---:|:---:|:---:|
+| Node.js & Microservices | Vue 3 & Vite | Flutter & Dart | AWS & S3 |
+| REST APIs & RBAC | Tailwind CSS | Android & iOS | Docker |
+| PostgreSQL & Sequelize | Reusable UI | BLoC Architecture | RabbitMQ & WebSockets |
+
+</div>
+
+---
+
+## 🚀 Currently Building
+
+~~~text
+┌─────────────────────────────────────────────────────────────┐
+│  🔧 Microservice architectures                              │
+│  📡 Real-time notifications & WebSocket systems             │
+│  📱 Cross-platform Flutter applications                     │
+│  🗄️  PostgreSQL-backed enterprise systems                  │
+│  ☁️  Cloud & containerized infrastructure                  │
+│  🤖 AI-assisted development workflows                       │
+└─────────────────────────────────────────────────────────────┘
+~~~
+
+---
+
+## 🛠️ My Stack
+
+<div align="center">
+
+### Backend
+![Node.js](https://skillicons.dev/icons?i=nodejs,express,postgres,sequelize)
 
 ### Frontend & Mobile
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Frontend](https://skillicons.dev/icons?i=vue,vite,tailwind,flutter,dart)
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+### Cloud, DevOps & Tools
+![Tools](https://skillicons.dev/icons?i=docker,aws,rabbitmq,git,github)
 
-### Infrastructure & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</div>
 
 ---
 
 ## 🏆 Highlights
 
-- 🥇 **NASA Space Apps Challenge 2025 — Kanjirapally Winner**
-- 🌦️ **WeatherDoc** — 1st place in the Senior Category
-- 💡 **Best Use of Technology** award
-- 🏅 **Manager's Honours Award**
-- ⚙️ Building production-oriented systems with microservices, databases, cloud services and mobile apps
+<div align="center">
+
+### 🥇 NASA Space Apps Challenge 2025
+
+**Kanjirapally Winner**
+
+🌦️ **WeatherDoc** — 1st Senior Category
+💡 **Best Use of Technology**
+🏅 **Manager's Honours Award**
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lonelycoder2004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonelycoder2004&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lonelycoder2004&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=lonelycoder2004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" />
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonelycoder2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 
-## 🔭 Currently Building & Learning
+<br/><br/>
 
-I'm continuously working across the full development lifecycle — from **database design and backend APIs** to **frontend architecture, mobile apps, cloud services and deployment**.
+<img src="https://streak-stats.demolab.com?user=lonelycoder2004&theme=tokyonight&hide_border=true" />
 
-I'm especially interested in:
-
-**Microservices · Distributed Systems · AI-assisted Engineering · Cloud Infrastructure · Mobile Development · System Design**
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 💡 Areas I'm Exploring
 
-<p align="center">
-  <a href="https://github.com/lonelycoder2004">
-    <img src="https://img.shields.io/badge/GitHub-lonelycoder2004-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Build. Learn. Understand. Ship. 🚀</i>
-</p>
+**Microservices** · **Distributed Systems** · **System Design**
+**AI-assisted Engineering** · **Cloud Infrastructure** · **Mobile Development**
+
+</div>
+
+---
+
+## 🧠 How I Like to Build
+
+~~~text
+        IDEA
+         │
+         ▼
+    ┌───────────┐
+    │ Understand│
+    └─────┬─────┘
+          │
+          ▼
+    ┌───────────┐
+    │  Design   │
+    └─────┬─────┘
+          │
+          ▼
+    ┌───────────┐
+    │   Build   │ ◄── AI-assisted
+    └─────┬─────┘
+          │
+          ▼
+    ┌───────────┐
+    │   Test    │
+    └─────┬─────┘
+          │
+          ▼
+    ┌───────────┐
+    │   Ship 🚀 │
+    └───────────┘
+~~~
+
+---
+
+<div align="center">
+
+### 🤝 Let's Build Something
+
+[![GitHub](https://img.shields.io/badge/Follow-lonelycoder2004-706AFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lonelycoder2004)
+
+<br/>
+
+**Thanks for stopping by!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=706AFF&height=100&section=footer" width="100%" />
+
+</div>
