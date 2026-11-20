@@ -67,9 +67,9 @@ Node.js · Vue 3 · Flutter · PostgreSQL · Docker · AWS · RabbitMQ
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lonelycoder2004&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=050510&title_color=00E5FF&icon_color=FF00E5&text_color=E8E8FF">
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lonelycoder2004&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=ffffff&title_color=706AFF&icon_color=FF00E5&text_color=222222">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=lonelycoder2004&show_icons=true" alt="GitHub stats"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lonelycoder2004&show_icons=true&hide_border=true&count_private=false&rank_icon=github&bg_color=050510&title_color=00E5FF&icon_color=FF00E5&text_color=E8E8FF">
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lonelycoder2004&show_icons=true&hide_border=true&count_private=false&rank_icon=github&bg_color=ffffff&title_color=706AFF&icon_color=FF00E5&text_color=222222">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=lonelycoder2004&show_icons=true&hide_border=true&count_private=false&rank_icon=github" alt="GitHub stats"/>
 </picture>
 
 <picture>
