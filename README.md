@@ -1,104 +1,104 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=ASHIK%20SHAJI&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20SYSTEM%20BUILDER&descAlignY=62&descSize=16&color=0:000000,50:181818,100:000000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=ASHIK%20SHAJI&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20SYSTEM%20BUILDER&descAlignY=62&descSize=16&color=0:706AFF,50:4F46E5,100:312E81" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=700&color=111111&center=true&vCenter=true&width=760&lines=%5B+BOOTING+PROFILE...+%5D;%3E+FULL-STACK+DEVELOPER;%3E+SYSTEM+BUILDER;%3E+AI-ASSISTED+ENGINEERING;%5B+BUILD.+UNDERSTAND.+SHIP.+%5D" alt="Terminal typing animation"/>
-
-<br/><br/>
-
-<a href="https://github.com/lonelycoder2004"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/lonelycoder2004?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-333333?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=lonelycoder2004&style=for-the-badge&color=111111&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=650&color=706AFF&center=true&vCenter=true&width=760&lines=Building+systems%2C+not+just+features.;Node.js+%7C+Vue+%7C+Flutter+%7C+PostgreSQL;Microservices+%7C+Realtime+%7C+Cloud;AI-assisted+engineering+%E2%9A%A1;Build.+Understand.+Improve.+Ship." alt="Typing animation"/>
 
 <br/><br/>
 
-<code>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</code>
+<a href="https://github.com/lonelycoder2004"><img src="https://img.shields.io/badge/GITHUB-706AFF?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/lonelycoder2004?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-4F46E5?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=lonelycoder2004&style=for-the-badge&color=706AFF&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-## 01 // WHOAMI
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:706AFF,50:4F46E5,100:312E81" width="82%"/></div>
+
+## ⚡ WHOAMI
 
 <div align="center">
 
-**FULL-STACK DEVELOPER · SYSTEM BUILDER**
+**Full-Stack Developer · System Builder · AI-Assisted Engineer**
 
-> Building production software across **backend → frontend → mobile → cloud**.
+Building production software across **backend → frontend → mobile → cloud**.
 
-<code>Node.js</code> · <code>Vue 3</code> · <code>Flutter</code> · <code>PostgreSQL</code> · <code>Docker</code> · <code>AWS</code> · <code>RabbitMQ</code>
+Node.js · Vue 3 · Flutter · PostgreSQL · Docker · AWS · RabbitMQ
 
-**BUILD IT. UNDERSTAND IT. IMPROVE IT. SHIP IT.**
+**Build it. Understand it. Improve it. Ship it.**
 
 </div>
 
-<div align="center">
-<code>┌────────────────────────────────────────────────────┐</code><br/>
-<code>│  STATUS  : ONLINE                                 │</code><br/>
-<code>│  MODE    : BUILD                                  │</code><br/>
-<code>│  SIGNAL  : ████████████████████ 100%              │</code><br/>
-<code>└────────────────────────────────────────────────────┘</code>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=42&color=0:312E81,50:4F46E5,100:706AFF&section=header" width="78%"/></div>
 
-## 02 // CURRENTLY
+## 🚀 CURRENTLY
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=550&color=111111&center=true&vCenter=true&width=760&lines=%5B01%5D+MICROSERVICE+ARCHITECTURES;%5B02%5D+REALTIME+%26+NOTIFICATION+SYSTEMS;%5B03%5D+FLUTTER+APPLICATIONS;%5B04%5D+POSTGRESQL+SYSTEMS;%5B05%5D+CLOUD+%26+CONTAINER+INFRASTRUCTURE;%5B06%5D+AI-ASSISTED+DEVELOPMENT" alt="Current focus"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2100&pause=450&color=706AFF&center=true&vCenter=true&width=720&lines=%E2%9A%99%EF%B8%8F+Microservice+architectures;%F0%9F%93%A1+Realtime+%26+notification+systems;%F0%9F%93%B1+Flutter+applications;%F0%9F%97%84%EF%B8%8F+PostgreSQL+enterprise+systems;%E2%98%81%EF%B8%8F+Cloud+%26+container+infrastructure;%F0%9F%A4%96+AI-assisted+development" alt="Currently building"/>
+
+<br/><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:706AFF,50:4F46E5,100:312E81" width="52%"/>
 
 </div>
 
-## 03 // STACK
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:4F46E5,50:706AFF,100:312E81" width="68%"/></div>
+
+## 🧬 STACK
 
 <div align="center">
 
-**BACKEND**
+**⚙️ BACKEND**
 
-<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sequelize,rabbitmq&theme=light" alt="Backend stack"/></a>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sequelize,rabbitmq" alt="Backend stack"/></a>
 
-**FRONTEND · MOBILE**
+**🎨 FRONTEND · MOBILE**
 
-<a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue,vite,tailwind,flutter,dart&theme=light" alt="Frontend and mobile stack"/></a>
+<a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue,vite,tailwind,flutter,dart" alt="Frontend and mobile stack"/></a>
 
-**CLOUD · DEVOPS**
+**☁️ CLOUD · DEVOPS**
 
-<a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux&theme=light" alt="Cloud and DevOps stack"/></a>
+<a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" alt="Cloud and DevOps stack"/></a>
 
 </div>
 
-## 04 // GITHUB SIGNAL
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:706AFF,50:4F46E5,100:312E81" width="68%"/></div>
+
+## 📊 SIGNAL
 
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lonelycoder2004&show_icons=true&hide_border=true&count_private=false&rank_icon=github&bg_color=111111&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF">
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lonelycoder2004&show_icons=true&hide_border=true&count_private=false&rank_icon=github&bg_color=FFFFFF&title_color=111111&icon_color=111111&text_color=111111">
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lonelycoder2004&show_icons=true&hide_border=true&count_private=false&rank_icon=github&bg_color=08081A&title_color=706AFF&icon_color=4F46E5&text_color=E8E8FF">
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lonelycoder2004&show_icons=true&hide_border=true&count_private=false&rank_icon=github&bg_color=ffffff&title_color=706AFF&icon_color=4F46E5&text_color=222222">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=lonelycoder2004&show_icons=true&hide_border=true&count_private=false&rank_icon=github" alt="GitHub stats"/>
 </picture>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lonelycoder2004&layout=compact&hide_border=true&langs_count=6&bg_color=111111&title_color=FFFFFF&text_color=FFFFFF">
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lonelycoder2004&layout=compact&hide_border=true&langs_count=6&bg_color=FFFFFF&title_color=111111&text_color=111111">
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lonelycoder2004&layout=compact&hide_border=true&langs_count=6&bg_color=08081A&title_color=706AFF&text_color=E8E8FF">
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lonelycoder2004&layout=compact&hide_border=true&langs_count=6&bg_color=ffffff&title_color=706AFF&text_color=222222">
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonelycoder2004&layout=compact" alt="Top languages"/>
 </picture>
 
 <br/>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lonelycoder2004&hide_border=true&background=111111&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA">
-<source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=lonelycoder2004&hide_border=true&background=FFFFFF&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=111111&dates=666666">
+<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lonelycoder2004&hide_border=true&background=08081A&ring=706AFF&fire=4F46E5&currStreakLabel=706AFF&sideLabels=E8E8FF&dates=8888AA">
+<source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=lonelycoder2004&hide_border=true&background=ffffff&ring=706AFF&fire=4F46E5&currStreakLabel=706AFF&sideLabels=222222&dates=666666">
 <img src="https://streak-stats.demolab.com?user=lonelycoder2004&hide_border=true" alt="GitHub streak"/>
 </picture>
 
 <br/><br/>
 
-<a href="https://github.com/lonelycoder2004?tab=repositories"><img src="https://img.shields.io/badge/OPEN_REPOSITORIES-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/lonelycoder2004?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-08081A?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=706AFF"/></a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lonelycoder2004&bg_color=111111&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&custom_title=ACTIVITY%20LOG" width="94%" alt="GitHub activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lonelycoder2004&bg_color=08081A&color=706AFF&line=4F46E5&point=FFFFFF&area=true&hide_border=true&custom_title=NEURAL%20ACTIVITY" width="94%" alt="GitHub activity graph"/>
 
 </div>
 
-## 05 // CONTRIBUTION MATRIX
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=42&color=0:312E81,50:4F46E5,100:706AFF&section=header" width="78%"/></div>
+
+## 🐍 CONTRIBUTION MATRIX
 
 <div align="center">
 
@@ -110,26 +110,27 @@
 
 </div>
 
-## 06 // TRANSMISSION
+## 🧠 TRANSMISSION
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=1200&color=111111&center=true&vCenter=true&width=720&lines=%22THE+BEST+CODE+IS+CODE+YOU+UNDERSTAND.%22;%22BUILD+LESS.+UNDERSTAND+MORE.%22;%22SHIP+IT.+THEN+MAKE+IT+BETTER.%22" alt="Developer transmission"/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+<source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="82%" alt="Random developer quote"/>
+</picture>
 
 <br/><br/>
 
-<a href="https://github.com/lonelycoder2004"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LINKEDIN-333333?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<br/><br/>
-
-<code>╔════════════════════════════════════════════════════╗</code><br/>
-<code>║              SYSTEM STATUS : ONLINE               ║</code><br/>
-<code>║              END OF TRANSMISSION                  ║</code><br/>
-<code>╚════════════════════════════════════════════════════╝</code>
+<a href="https://github.com/lonelycoder2004"><img src="https://img.shields.io/badge/GITHUB-706AFF?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:000000,50:181818,100:000000&section=footer" width="100%"/>
+
+**[ SYSTEM ONLINE ]**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:312E81,50:4F46E5,100:706AFF&section=footer" width="100%"/>
+
 </div>
