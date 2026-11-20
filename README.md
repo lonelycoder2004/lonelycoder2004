@@ -81,8 +81,8 @@ Node.js · Vue 3 · Flutter · PostgreSQL · Docker · AWS · RabbitMQ
 <br/>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lonelycoder2004&hide_border=true&background=08081A&ring=706AFF&fire=4F46E5&currStreakLabel=706AFF&sideLabels=E8E8FF&dates=8888AA">
-<source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=lonelycoder2004&hide_border=true&background=ffffff&ring=706AFF&fire=4F46E5&currStreakLabel=706AFF&sideLabels=222222&dates=666666">
+<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lonelycoder2004&hide_border=true&background=08081A&ring=706AFF&fire=4F46E5&currStreakLabel=706AFF&currStreakNum=FFFFFF&sideLabels=E8E8FF&sideNums=FFFFFF&dates=AAAAAA">
+<source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=lonelycoder2004&hide_border=true&background=FFFFFF&ring=706AFF&fire=4F46E5&currStreakLabel=4F46E5&currStreakNum=111111&sideLabels=222222&sideNums=111111&dates=666666">
 <img src="https://streak-stats.demolab.com?user=lonelycoder2004&hide_border=true" alt="GitHub streak"/>
 </picture>
 
