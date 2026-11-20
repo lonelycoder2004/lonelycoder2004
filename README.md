@@ -64,18 +64,6 @@ Building production software across **backend → frontend → mobile → cloud*
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:706AFF,50:FF00E5,100:00E5FF" width="68%"/>
 </div>
 
-## 🌌 FEATURED
-
-<div align="center">
-
-| 🚀 PROJECT | SIGNAL |
-|:---:|:---|
-| **WeatherDoc** | NASA Space Apps 2025 — weather intelligence |
-| **LLB-SDC** | Enterprise ERP platform powered by microservices |
-| **SalonSlotz** | Cross-platform salon management experience |
-
-</div>
-
 ## 📊 SIGNAL
 
 <div align="center">
