@@ -6,23 +6,13 @@
 
 <br/><br/>
 
-<a href="#-whoami"><img src="https://img.shields.io/badge/%E2%9A%A1_WHOAMI-706AFF?style=for-the-badge"/></a>
-<a href="#-currently"><img src="https://img.shields.io/badge/%F0%9F%9A%80_CURRENTLY-00E5FF?style=for-the-badge&labelColor=050510"/></a>
-<a href="#-stack"><img src="https://img.shields.io/badge/%F0%9F%A7%AC_STACK-FF00E5?style=for-the-badge&labelColor=050510"/></a>
-<a href="#-signal"><img src="https://img.shields.io/badge/%F0%9F%93%8A_SIGNAL-706AFF?style=for-the-badge"/></a>
-
-<br/><br/>
-
-<a href="https://github.com/lonelycoder2004">
-<img src="https://img.shields.io/github/followers/lonelycoder2004?style=for-the-badge&logo=github&label=FOLLOW&color=706AFF"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=lonelycoder2004&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://github.com/lonelycoder2004"><img src="https://img.shields.io/badge/GITHUB-706AFF?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/lonelycoder2004?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-00E5FF?style=for-the-badge&logo=github&logoColor=050510"/></a>
+<img src="https://komarev.com/ghpvc/?username=lonelycoder2004&style=for-the-badge&color=FF00E5&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:706AFF,50:00E5FF,100:FF00E5" width="82%"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:706AFF,50:00E5FF,100:FF00E5" width="82%"/></div>
 
 ## ⚡ WHOAMI
 
@@ -32,31 +22,13 @@
 
 Building production software across **backend → frontend → mobile → cloud**.
 
-`Node.js` · `Vue 3` · `Flutter` · `PostgreSQL` · `Docker` · `AWS` · `RabbitMQ`
+Node.js · Vue 3 · Flutter · PostgreSQL · Docker · AWS · RabbitMQ
 
 **Build it. Understand it. Improve it. Ship it.**
 
-<br/>
-
-<details>
-<summary><b>▸ TAP TO DECODE</b></summary>
-
-<br/>
-
-```
-STATUS      ONLINE
-MODE        BUILD / LEARN / SHIP
-FOCUS       SYSTEMS + PRODUCT ENGINEERING
-SIGNAL      AI-ASSISTED
-```
-
-</details>
-
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=42&color=0:FF00E5,50:706AFF,100:00E5FF&section=header" width="78%"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=42&color=0:FF00E5,50:706AFF,100:00E5FF&section=header" width="78%"/></div>
 
 ## 🚀 CURRENTLY
 
@@ -64,59 +36,31 @@ SIGNAL      AI-ASSISTED
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2100&pause=450&color=FF00E5&center=true&vCenter=true&width=720&lines=%E2%9A%99%EF%B8%8F+Microservice+architectures;%F0%9F%93%A1+Realtime+%26+notification+systems;%F0%9F%93%B1+Flutter+applications;%F0%9F%97%84%EF%B8%8F+PostgreSQL+enterprise+systems;%E2%98%81%EF%B8%8F+Cloud+%26+container+infrastructure;%F0%9F%A4%96+AI-assisted+development" alt="Currently building"/>
 
-<br/>
-
-<details>
-<summary><b>⚙️ EXPAND CURRENT SIGNAL</b></summary>
-
-<br/>
-
-| SYSTEM | STATUS |
-|:---:|:---:|
-| ⚙️ Backend | **BUILDING** |
-| 📡 Realtime | **ACTIVE** |
-| 📱 Mobile | **EXPLORING** |
-| ☁️ Cloud | **DEPLOYING** |
-| 🤖 AI | **ACCELERATING** |
-
-</details>
+<br/><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FF00E5,50:706AFF,100:00E5FF" width="52%"/>
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,50:706AFF,100:FF00E5" width="68%"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,50:706AFF,100:FF00E5" width="68%"/></div>
 
 ## 🧬 STACK
 
 <div align="center">
 
-<details open>
-<summary><b>⚙️ BACKEND</b></summary>
-<br/>
+**⚙️ BACKEND**
+
 <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sequelize,rabbitmq" alt="Backend stack"/></a>
-<br/><br/>
-</details>
 
-<details open>
-<summary><b>🎨 FRONTEND · MOBILE</b></summary>
-<br/>
+**🎨 FRONTEND · MOBILE**
+
 <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue,vite,tailwind,flutter,dart" alt="Frontend and mobile stack"/></a>
-<br/><br/>
-</details>
 
-<details open>
-<summary><b>☁️ CLOUD · DEVOPS</b></summary>
-<br/>
+**☁️ CLOUD · DEVOPS**
+
 <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" alt="Cloud and DevOps stack"/></a>
-<br/><br/>
-</details>
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:706AFF,50:FF00E5,100:00E5FF" width="68%"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:706AFF,50:FF00E5,100:00E5FF" width="68%"/></div>
 
 ## 📊 SIGNAL
 
@@ -144,9 +88,7 @@ SIGNAL      AI-ASSISTED
 
 <br/><br/>
 
-<a href="https://github.com/lonelycoder2004?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-050510?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=706AFF"/>
-</a>
+<a href="https://github.com/lonelycoder2004?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-050510?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=706AFF"/></a>
 
 <br/><br/>
 
@@ -154,9 +96,7 @@ SIGNAL      AI-ASSISTED
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=42&color=0:00E5FF,50:706AFF,100:FF00E5&section=header" width="78%"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=42&color=0:00E5FF,50:706AFF,100:FF00E5&section=header" width="78%"/></div>
 
 ## 🐍 CONTRIBUTION MATRIX
 
@@ -167,12 +107,6 @@ SIGNAL      AI-ASSISTED
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lonelycoder2004/lonelycoder2004/output/github-contribution-grid-snake.svg">
 <img src="https://raw.githubusercontent.com/lonelycoder2004/lonelycoder2004/output/github-contribution-grid-snake.svg" width="94%" alt="Contribution snake"/>
 </picture>
-
-<br/><br/>
-
-<a href="https://github.com/lonelycoder2004?tab=overview">
-<img src="https://img.shields.io/badge/OPEN_GITHUB_ACTIVITY-00E5FF?style=for-the-badge&logo=github&logoColor=050510&labelColor=050510"/>
-</a>
 
 </div>
 
@@ -190,19 +124,6 @@ SIGNAL      AI-ASSISTED
 
 <a href="https://github.com/lonelycoder2004"><img src="https://img.shields.io/badge/GITHUB-706AFF?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=050510"/></a>
-
-<br/><br/>
-
-<details>
-<summary><b>▸ TAP FOR SYSTEM MESSAGE</b></summary>
-
-<br/>
-
-**Connection established.**  
-**Curiosity detected.**  
-**Keep building. Keep understanding. Keep shipping.**
-
-</details>
 
 </div>
 
