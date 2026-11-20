@@ -1,157 +1,148 @@
 <div align="center">
 
-# 👋 Hey, I'm **Ashik Shaji**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Ashik%20Shaji&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20SYSTEM%20BUILDER&descAlignY=62&descSize=16&color=0:706AFF,50:00E5FF,100:FF00E5" width="100%"/>
 
-### Full-Stack Developer • System Builder • AI-Assisted Engineer
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=706AFF&center=true&vCenter=true&width=700&lines=Building+scalable+microservices+%F0%9F%9A%80;Crafting+Vue+%26+Flutter+experiences+%F0%9F%8E%A8;Working+with+PostgreSQL%2C+AWS+%26+Docker+%E2%98%81%EF%B8%8F;Learning+systems+by+building+them+%F0%9F%A7%A0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=650&color=00E5FF&center=true&vCenter=true&width=760&lines=Building+systems%2C+not+just+features.;Node.js+%7C+Vue+%7C+Flutter+%7C+PostgreSQL;Microservices+%7C+Realtime+%7C+Cloud;AI-assisted+engineering+%E2%9A%A1;Build.+Understand.+Improve.+Ship." alt="Typing animation"/>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-lonelycoder2004-181717?style=for-the-badge&logo=github)](https://github.com/lonelycoder2004)
-[![Profile Views](https://komarev.com/ghpvc/?username=lonelycoder2004&style=for-the-badge&color=706AFF)](https://github.com/lonelycoder2004)
+<a href="https://github.com/lonelycoder2004">
+<img src="https://img.shields.io/github/followers/lonelycoder2004?style=for-the-badge&logo=github&label=FOLLOW&color=706AFF"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=lonelycoder2004&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:706AFF,50:00E5FF,100:FF00E5" width="82%"/>
+</div>
 
-## ⚡ What I'm About
-
-> **Build it. Understand it. Improve it. Ship it.**
-
-I build production-oriented software across **backend, frontend, mobile and cloud**.
-I use AI to accelerate development, while keeping the goal simple: **understand the system, not just generate the code.**
+## ⚡ WHOAMI
 
 <div align="center">
 
-| 🧩 Backend | 🎨 Frontend | 📱 Mobile | ☁️ Cloud |
-|:---:|:---:|:---:|:---:|
-| Node.js & Microservices | Vue 3 & Vite | Flutter & Dart | AWS & S3 |
-| REST APIs & RBAC | Tailwind CSS | Android & iOS | Docker |
-| PostgreSQL & Sequelize | Reusable UI | BLoC Architecture | RabbitMQ & WebSockets |
+**Full-Stack Developer · System Builder · AI-Assisted Engineer**
+
+Building production software across **backend → frontend → mobile → cloud**.
+
+`Node.js` · `Vue 3` · `Flutter` · `PostgreSQL` · `Docker` · `AWS` · `RabbitMQ`
+
+**Build it. Understand it. Improve it. Ship it.**
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=42&color=0:FF00E5,50:706AFF,100:00E5FF&section=header" width="78%"/>
+</div>
 
-## 🚀 Currently Building
+## 🚀 CURRENTLY
 
-~~~text
-┌─────────────────────────────────────────────────────────────┐
-│  🔧 Microservice architectures                              │
-│  📡 Real-time notifications & WebSocket systems             │
-│  📱 Cross-platform Flutter applications                     │
-│  🗄️  PostgreSQL-backed enterprise systems                  │
-│  ☁️  Cloud & containerized infrastructure                  │
-│  🤖 AI-assisted development workflows                       │
-└─────────────────────────────────────────────────────────────┘
-~~~
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2100&pause=450&color=FF00E5&center=true&vCenter=true&width=720&lines=%E2%9A%99%EF%B8%8F+Microservice+architectures;%F0%9F%93%A1+Realtime+%26+notification+systems;%F0%9F%93%B1+Flutter+applications;%F0%9F%97%84%EF%B8%8F+PostgreSQL+enterprise+systems;%E2%98%81%EF%B8%8F+Cloud+%26+container+infrastructure;%F0%9F%A4%96+AI-assisted+development" alt="Currently building"/>
+</div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,50:706AFF,100:FF00E5" width="68%"/>
+</div>
 
-## 🛠️ My Stack
+## 🧬 STACK
 
 <div align="center">
 
-### Backend
-![Node.js](https://skillicons.dev/icons?i=nodejs,express,postgres,sequelize)
+**BACKEND**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sequelize,rabbitmq" alt="Backend stack"/>
 
-### Frontend & Mobile
-![Frontend](https://skillicons.dev/icons?i=vue,vite,tailwind,flutter,dart)
+**FRONTEND · MOBILE**  
+<img src="https://skillicons.dev/icons?i=vue,vite,tailwind,flutter,dart" alt="Frontend and mobile stack"/>
 
-### Cloud, DevOps & Tools
-![Tools](https://skillicons.dev/icons?i=docker,aws,rabbitmq,git,github)
+**CLOUD · DEVOPS**  
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" alt="Cloud and DevOps stack"/>
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:706AFF,50:FF00E5,100:00E5FF" width="68%"/>
+</div>
 
-## 🏆 Highlights
+## 🌌 FEATURED
 
 <div align="center">
 
-### 🥇 NASA Space Apps Challenge 2025
-
-**Kanjirapally Winner**
-
-🌦️ **WeatherDoc** — 1st Senior Category
-💡 **Best Use of Technology**
-🏅 **Manager's Honours Award**
+| 🚀 PROJECT | SIGNAL |
+|:---:|:---|
+| **WeatherDoc** | NASA Space Apps 2025 — weather intelligence |
+| **LLB-SDC** | Enterprise ERP platform powered by microservices |
+| **SalonSlotz** | Cross-platform salon management experience |
 
 </div>
 
----
-
-## 📊 GitHub Activity
+## 📊 SIGNAL
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lonelycoder2004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lonelycoder2004&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=050510&title_color=00E5FF&icon_color=FF00E5&text_color=E8E8FF">
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lonelycoder2004&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=ffffff&title_color=706AFF&icon_color=FF00E5&text_color=222222">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=lonelycoder2004&show_icons=true" alt="GitHub stats"/>
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonelycoder2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lonelycoder2004&layout=compact&hide_border=true&langs_count=6&bg_color=050510&title_color=00E5FF&text_color=E8E8FF">
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lonelycoder2004&layout=compact&hide_border=true&langs_count=6&bg_color=ffffff&title_color=706AFF&text_color=222222">
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonelycoder2004&layout=compact" alt="Top languages"/>
+</picture>
+
+<br/>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lonelycoder2004&hide_border=true&background=050510&ring=00E5FF&fire=FF00E5&currStreakLabel=706AFF&sideLabels=E8E8FF&dates=8888AA">
+<source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=lonelycoder2004&hide_border=true&background=ffffff&ring=706AFF&fire=FF00E5&currStreakLabel=706AFF&sideLabels=222222&dates=666666">
+<img src="https://streak-stats.demolab.com?user=lonelycoder2004&hide_border=true" alt="GitHub streak"/>
+</picture>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=lonelycoder2004&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lonelycoder2004&bg_color=050510&color=00E5FF&line=FF00E5&point=FFFFFF&area=true&hide_border=true&custom_title=NEURAL%20ACTIVITY" width="94%" alt="GitHub activity graph"/>
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=42&color=0:00E5FF,50:706AFF,100:FF00E5&section=header" width="78%"/>
+</div>
 
-## 💡 Areas I'm Exploring
+## 🐍 CONTRIBUTION MATRIX
 
 <div align="center">
 
-**Microservices** · **Distributed Systems** · **System Design**
-**AI-assisted Engineering** · **Cloud Infrastructure** · **Mobile Development**
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lonelycoder2004/lonelycoder2004/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lonelycoder2004/lonelycoder2004/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/lonelycoder2004/lonelycoder2004/output/github-contribution-grid-snake.svg" width="94%" alt="Contribution snake"/>
+</picture>
 
 </div>
 
----
-
-## 🧠 How I Like to Build
-
-~~~text
-        IDEA
-         │
-         ▼
-    ┌───────────┐
-    │ Understand│
-    └─────┬─────┘
-          │
-          ▼
-    ┌───────────┐
-    │  Design   │
-    └─────┬─────┘
-          │
-          ▼
-    ┌───────────┐
-    │   Build   │ ◄── AI-assisted
-    └─────┬─────┘
-          │
-          ▼
-    ┌───────────┐
-    │   Test    │
-    └─────┬─────┘
-          │
-          ▼
-    ┌───────────┐
-    │   Ship 🚀 │
-    └───────────┘
-~~~
-
----
+## 🧠 TRANSMISSION
 
 <div align="center">
 
-### 🤝 Let's Build Something
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+<source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="82%" alt="Random developer quote"/>
+</picture>
 
-[![GitHub](https://img.shields.io/badge/Follow-lonelycoder2004-706AFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lonelycoder2004)
+<br/><br/>
 
-<br/>
+<a href="https://github.com/lonelycoder2004"><img src="https://img.shields.io/badge/GITHUB-706AFF?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=050510"/></a>
 
-**Thanks for stopping by!**
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=706AFF&height=100&section=footer" width="100%" />
+<div align="center">
+
+**[ SYSTEM ONLINE ]**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00E5FF,50:706AFF,100:FF00E5&section=footer" width="100%"/>
 
 </div>
